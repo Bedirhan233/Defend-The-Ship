@@ -2,13 +2,16 @@
 
 ![GameSS](https://github.com/Bedirhan233/Defend-The-Ship/assets/114574131/37f0e564-c15f-4073-b065-5bea3f2cefcb)
 ### About the Game
+![ex3](https://github.com/Bedirhan233/Defend-The-Ship/assets/114574131/cce17632-6f72-4b76-9ff7-54031b669d51)
 
 Defend the Ship is a game where you must protect your ship from enemies attempting to destroy it. You command a robot that can repair the ship, gather metal to build a turret, or simply follow the player.
 
 ## Robot AI Command Logic
 
 I used 'AI move to' for my logic. Based on player input on the robot it trigger the events that change the target variable, which sets the target for 'AI move to'. Basically, we choose what the robot should do.
+
 ![Capture](https://github.com/Bedirhan233/Defend-The-Ship/assets/114574131/d8f71cd0-dae2-400b-b119-e736cc51c4c0)
+
 ![Event](https://github.com/Bedirhan233/Defend-The-Ship/assets/114574131/ca7371f5-44d4-4934-a683-917d554a2718)
 
 
