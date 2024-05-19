@@ -18,6 +18,7 @@ I used 'AI move to' for my logic. Based on player input on the robot it trigger 
 
 
 By doing that, the robot moves to those locations, gathers the necessary resources, and then returns to the station after a delay. For example, in the metal gathering system, I use a boolean to toggle the state. When it's false the robot moves to gather metal and the boolean is set to true. Then it returns to the station, adds the value to the system and the boolean changes to false after a delay.
+
 ![MetalHandlerEvent](https://github.com/Bedirhan233/Defend-The-Ship/assets/114574131/86ab75d8-c9d9-4a70-b9fd-493fe4e97842)
 ![FunctionForMetal](https://github.com/Bedirhan233/Defend-The-Ship/assets/114574131/a5142798-a2d7-4569-a8e5-2d16afc7fa05)
 
